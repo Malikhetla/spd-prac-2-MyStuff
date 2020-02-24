@@ -2,7 +2,7 @@
 
 namespace Problems
 {
-    public static class Program
+    public class Program
     {
 
        public static string Prefix(string input){
